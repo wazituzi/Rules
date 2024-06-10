@@ -1,21 +1,21 @@
-- DOMAIN,itunes.apple.com
-- DOMAIN-SUFFIX,apps.apple.com //商店内容，如 App、图书和音乐
-- DOMAIN-SUFFIX,mzstatic.com //商店内容，如 App、图书和音乐
-- DOMAIN,ppq.apple.com //企业 App 验证
-- DOMAIN,appldnld.apple.com
-- DOMAIN,gdmf.apple.com //软件更新目录
-- DOMAIN,gg.apple.com //iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
-- DOMAIN,gs.apple.com //iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
-- DOMAIN,ig.apple.com //macOS 更新
-- DOMAIN,mesu.apple.com //托管软件更新目录
-- DOMAIN,ns.itunes.apple.com
-- DOMAIN,oscdn.apple.com //macOS 恢复
-- DOMAIN,osrecovery.apple.com //macOS 恢复
-- DOMAIN,skl.apple.com //macOS 更新
-- DOMAIN,swcdn.apple.com //macOS 更新
-- DOMAIN,swdist.apple.com //macOS 更新
-- DOMAIN,swdownload.apple.com //macOS 更新
-- DOMAIN,swscan.apple.com //macOS 更新
-- DOMAIN,updates-http.cdn-apple.com //软件更新下载
-- DOMAIN,updates.cdn-apple.com //软件更新下载
-- DOMAIN,xp.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com //商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX,mzstatic.com //商店内容，如 App、图书和音乐
+DOMAIN,ppq.apple.com //企业 App 验证
+DOMAIN,appldnld.apple.com
+DOMAIN,gdmf.apple.com //软件更新目录
+DOMAIN,gg.apple.com //iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
+DOMAIN,gs.apple.com //iOS、iPadOS、Apple tvOS、watchOS 和 macOS 更新
+DOMAIN,ig.apple.com //macOS 更新
+DOMAIN,mesu.apple.com //托管软件更新目录
+DOMAIN,ns.itunes.apple.com
+DOMAIN,oscdn.apple.com //macOS 恢复
+DOMAIN,osrecovery.apple.com //macOS 恢复
+DOMAIN,skl.apple.com //macOS 更新
+DOMAIN,swcdn.apple.com //macOS 更新
+DOMAIN,swdist.apple.com //macOS 更新
+DOMAIN,swdownload.apple.com //macOS 更新
+DOMAIN,swscan.apple.com //macOS 更新
+DOMAIN,updates-http.cdn-apple.com //软件更新下载
+DOMAIN,updates.cdn-apple.com //软件更新下载
+DOMAIN,xp.apple.com
