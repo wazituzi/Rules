@@ -18,3 +18,4 @@ DOMAIN, fpinit.itunes.apple.com
 DOMAIN, entitlements-edge.itunes.apple.com
 DOMAIN, weather-analytics-events.apple.com
 DOMAIN-SUFFIX, apple.news
+DOMAIN, comm-main.ess.apple.com:3481
