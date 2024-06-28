@@ -2,4 +2,7 @@
 DOMAIN, broker.jagat.io
 
 # ad
-DOMAIN-SUFFIX, adrules.top
+DOMAIN, adrules.top
+
+# loon
+DOMAIN, nsloon.app
