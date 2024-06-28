@@ -16,3 +16,5 @@ DOMAIN, setup.icloud.com
 DOMAIN, aidc.apple.com
 DOMAIM, fpinit.itunes.apple.com
 DOMAIM, entitlements-edge.itunes.apple.com
+DOMAIN, weather-analytics-events.apple.com
+DOMAIM-SUFFIX, apple.news
