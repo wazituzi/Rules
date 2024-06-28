@@ -20,3 +20,6 @@ DOMAIN, updates-http.cdn-apple.com
 DOMAIN, updates.cdn-apple.com
 DOMAIN-SUFFIX, smoot.apple.com
 DOMAIM, gateway.icloud.com
+DOMAIN, 0-courier.push.apple.com
+DOMAIN, friend.gc.apple.com
+DOMAIN, setup.icloud.com
