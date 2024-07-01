@@ -6,3 +6,6 @@ DOMAIN, adrules.top
 
 # loon
 DOMAIN, nsloon.app
+
+# ipinfo
+DOMAIN-SUFFIX, ipinfo.io
