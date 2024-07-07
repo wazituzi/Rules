@@ -9,3 +9,7 @@ DOMAIN, nsloon.app
 
 # ipinfo
 DOMAIN-SUFFIX, ipinfo.io
+
+# tmdb
+DOMAIN-SUFFIX, themoviedb.org
+DOMAIN-SUFFIX, tmdb.org
