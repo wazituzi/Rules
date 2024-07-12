@@ -20,3 +20,7 @@ DOMAIN-SUFFIX, poecdn.net
 DOMAIN-SUFFIX, qr.ae
 DOMAIN-SUFFIX, quora.com
 DOMAIN-SUFFIX, quoracdn.net
+
+# wiki
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, wikimedia.org
