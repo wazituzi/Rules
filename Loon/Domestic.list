@@ -4,4 +4,4 @@ IP-CIDR, 138.1.2.60/32
 
 DOMAIN, iplark.com
 
-GEOIP, cn
+GEOIP, cn, no-resolve
