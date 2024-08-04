@@ -10,3 +10,4 @@ payload:
 - GEOSITE, tmdb
 - GEOSITE, wikimedia
 - GEOSITE, docker
+- DOMAIN-SUFFIX, v2ex.com
